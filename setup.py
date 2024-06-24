@@ -7,7 +7,7 @@ setup(
     description="A JSON Data Analysis Library",
     author="Rishabh Vatsa",
     author_email="vatsarishabh22@gmail.com",
-    url="https://github.com/yourusername/pyjsonix",
+    url="https://github.com/vatsarishabh22/pyjsonix",
     packages=find_packages(),
     install_requires=[
     ],
